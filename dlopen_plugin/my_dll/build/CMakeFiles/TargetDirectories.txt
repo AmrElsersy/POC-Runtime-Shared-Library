@@ -1,0 +1,3 @@
+C:/IQT/POC/dlopen_plugin/my_dll/build/CMakeFiles/rebuild_cache.dir
+C:/IQT/POC/dlopen_plugin/my_dll/build/CMakeFiles/DLL_SHARED_LIBRARY.dir
+C:/IQT/POC/dlopen_plugin/my_dll/build/CMakeFiles/edit_cache.dir

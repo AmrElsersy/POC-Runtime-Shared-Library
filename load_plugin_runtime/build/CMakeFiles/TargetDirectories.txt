@@ -1,0 +1,3 @@
+C:/IQT/POC/load_plugin_runtime/build/CMakeFiles/edit_cache.dir
+C:/IQT/POC/load_plugin_runtime/build/CMakeFiles/main.dir
+C:/IQT/POC/load_plugin_runtime/build/CMakeFiles/rebuild_cache.dir

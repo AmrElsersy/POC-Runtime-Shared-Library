@@ -1,0 +1,3 @@
+C:\IQT\5g-iqt\Deps\cmake\bin\cmake.exe -E rm -f CMakeFiles\DLL_SHARED_LIBRARY.dir/objects.a
+C:\IQT\5g-iqt\Deps\mingw\mingw64\bin\ar.exe qc CMakeFiles\DLL_SHARED_LIBRARY.dir/objects.a @CMakeFiles\DLL_SHARED_LIBRARY.dir\objects1.rsp
+C:\IQT\5g-iqt\Deps\mingw\mingw64\bin\g++.exe -shared -o libDLL_SHARED_LIBRARY.dll -Wl,--out-implib,libDLL_SHARED_LIBRARY.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\DLL_SHARED_LIBRARY.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\DLL_SHARED_LIBRARY.dir\linklibs.rsp

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/IQT/POC/build",
+  "command": "C:\\IQT\\5g-iqt\\Deps\\mingw\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\load_plugin_runtime.cpp.obj -c C:\\IQT\\POC\\load_plugin_runtime\\load_plugin_runtime.cpp",
+  "file": "C:/IQT/POC/load_plugin_runtime/load_plugin_runtime.cpp"
+}
+]
